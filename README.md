@@ -17,11 +17,6 @@ hello. I'm Moniruzzaman Tasrif . I'm a professional web designer & web developer
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🔭 I’m currently working on fiverr 
-- 🌱 I’m currently learning javascripet 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
