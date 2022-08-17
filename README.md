@@ -26,8 +26,8 @@ hello. I'm Moniruzzaman Tasrif . I'm a professional web designer & web developer
 - 🔭 I’m currently working on fiverr 
 - 🌱 I’m currently learning javascripet 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background="white">](https://github.com/moniruzzaman-tasrif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moniruzzaman-tasrif/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/moniruzzaman.tasrif.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MoniruzzamanT15)  
+<a href="#">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background="white">](https://github.com/moniruzzaman-tasrif) <a/>
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moniruzzaman-tasrif/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/moniruzzaman.tasrif.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MoniruzzamanT15)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=moniruzzaman-tasrif)](https://github.com/ryo-ma/github-profile-trophy)
 
