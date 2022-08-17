@@ -1,19 +1,16 @@
 
 
-<img src="/This PC\OPPO A16\Internal shared storage\pixelLab" />
+<img src="[/This PC\OPPO A16\Internal shared storage\pixelLab](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)" />
 
 
 ### Hi there 👋, moniruzzaman tasrif
 #### web desing
+
 ![web desing](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 hello. I'm Moniruzzaman Tasrif . I'm a professional web designer & web developer. I've good experience in responsive design. I Specialize in designing and creating beautiful, clean, professional website. having enough experience to get any kind of website done to its best level
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
