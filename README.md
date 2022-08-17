@@ -1,6 +1,6 @@
 
 
-<img src="[/This PC\OPPO A16\Internal shared storage\pixelLab](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋, moniruzzaman tasrif
