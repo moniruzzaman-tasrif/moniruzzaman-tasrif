@@ -6,7 +6,6 @@
 
   ### **Full-Stack Web Developer** | Building Modern & Responsive Applications
 
-  📍 Saudi Arabia &nbsp;&nbsp;|&nbsp;&nbsp; ✉️moniruzzamantasrif1@gmail.com
 
 </div>
 
@@ -26,21 +25,19 @@ I am a Full-Stack Web Developer dedicated to building high-performance, clean, a
 * 🛠️ **Refining:** Enhancing type safety and code scalability with **TypeScript** and modern UI frameworks.
 
 ---
-# 🌐 FOLLOW ME ON SOCIALS:
+### 🌐 FOLLOW ME ON SOCIALS:
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://linkedin.com/in/moniruzzaman-tasrif" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"  alt="LinkedIn Logo" />
   </a>
-  <a href="https://x.com/your-x-username" target="_blank">
+  <a href="https://x.com/moniruzzaman_05" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X Logo" />
   </a>
-  <a href="https://facebook.com/your-facebook-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Facebook Logo" />
+<a href="https://facebook.com/moniruzzaman.tasrif.7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"   alt="Facebook Logo" />
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord Logo" />
-  </a>
+
 </div>
 
 
@@ -48,7 +45,7 @@ I am a Full-Stack Web Developer dedicated to building high-performance, clean, a
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode,nodejs,mongo" />
 
 </div>
 
@@ -76,4 +73,10 @@ I am a Full-Stack Web Developer dedicated to building high-performance, clean, a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moniruzzaman-tasrif&theme=radical&hide_border=true" width="100%" />
 </div>
 
+## location
+ Saudi Arabia
+
+### Email
+
+ moniruzzamantasrif1@gmail.com
 
