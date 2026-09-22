@@ -26,6 +26,23 @@ I am a Full-Stack Web Developer dedicated to building high-performance, clean, a
 * 🛠️ **Refining:** Enhancing type safety and code scalability with **TypeScript** and modern UI frameworks.
 
 ---
+# 🌐 FOLLOW ME ON SOCIALS:
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"  alt="LinkedIn Logo" />
+  </a>
+  <a href="https://x.com/your-x-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X Logo" />
+  </a>
+  <a href="https://facebook.com/your-facebook-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Facebook Logo" />
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord Logo" />
+  </a>
+</div>
+
 
 ## 🛠️ Skills & Tech Stack
 
@@ -60,14 +77,3 @@ I am a Full-Stack Web Developer dedicated to building high-performance, clean, a
 </div>
 
 
----
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
