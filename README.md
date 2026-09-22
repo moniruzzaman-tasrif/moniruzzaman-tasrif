@@ -49,13 +49,9 @@ I am a Full-Stack Web Developer dedicated to building high-performance, clean, a
 ### GitHub Statistics:
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=moniruzzaman-tasrif&theme=radical" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=moniruzzaman-tasrif&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moniruzzaman-tasrif&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/repos-per-language?username=moniruzzaman-tasrif&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/most-commit-language?username=moniruzzaman-tasrif&theme=radical" width="48%" />
-</div>
 
 ### Repository Stats & Streak:
 
