@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=200&section=header&text=Moniruzzaman%20Tasrif&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&fontAlign=50" width="100%" />
+  <img src="./parson.png" width="100%" />
 </div>
 
 <div align="center">
-  
+
   ### **Full-Stack Web Developer** | Building Modern & Responsive Applications
 
-  📍 Saudi Arabia &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ your.email@example.com
+  📍 Saudi Arabia &nbsp;&nbsp;|&nbsp;&nbsp; ✉️moniruzzamantasrif1@gmail.com
 
 </div>
 
@@ -35,21 +35,26 @@ I am a Full-Stack Web Developer dedicated to building high-performance, clean, a
 
 </div>
 
----
 
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Statistics & Contributions
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/moniruzzaman-tasrif/moniruzzaman-tasrif/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moniruzzaman-tasrif&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniruzzaman-tasrif&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moniruzzaman-tasrif&theme=radical&hide_border=true" width="100%" />
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
 <div align="center">
