@@ -36,23 +36,28 @@ I am a Full-Stack Web Developer dedicated to building high-performance, clean, a
 </div>
 
 
+## 📊 GITHUB STATISTICS & ANALYSIS:
 
-
-## 📊 GitHub Statistics & Contributions
-
+### GitHub Contributions:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/moniruzzaman-tasrif/moniruzzaman-tasrif/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
+
+
+### GitHub Statistics:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moniruzzaman-tasrif&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniruzzaman-tasrif&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
+### Repository Stats & Streak:
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moniruzzaman-tasrif&theme=radical&hide_border=true" width="100%" />
 </div>
+
 
 ---
 ## 🌐 Connect With Me
